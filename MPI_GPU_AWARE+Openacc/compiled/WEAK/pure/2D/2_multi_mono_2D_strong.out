@@ -1,0 +1,119 @@
+Input n - matrix size in x direction:  
+Input m - matrix size in y direction: 
+Input alpha - Helmholtz constant:  
+Input relax - Successive over-relaxation parameter: 
+Input tol - error tolerance for iterrative solver:  
+Input mits - Maximum iterations for solver:  
+-> matrix size: 25455x25455
+-> alpha: 0.800000
+-> relax: 1.000000
+-> tolerance: 0.000000
+-> #of iterations: 20 
+
+ Number of iterations : 20
+ Residual             : 1.943765e-13
+ Solution Error       : 0.000020952723
+ Elapsed Time         : 17.8747682
+ MFlops               : 9423.470710
+Input n - matrix size in x direction:  
+Input m - matrix size in y direction: 
+Input alpha - Helmholtz constant:  
+Input relax - Successive over-relaxation parameter: 
+Input tol - error tolerance for iterrative solver:  
+Input mits - Maximum iterations for solver:  
+-> matrix size: 25455x25455
+-> alpha: 0.800000
+-> relax: 1.000000
+-> tolerance: 0.000000
+-> #of iterations: 20 
+
+ Number of iterations : 20
+ Residual             : 1.943765e-13
+ Solution Error       : 0.000020952723
+ Elapsed Time         : 17.8032765
+ MFlops               : 9461.312045
+Input n - matrix size in x direction:  
+Input m - matrix size in y direction: 
+Input alpha - Helmholtz constant:  
+Input relax - Successive over-relaxation parameter: 
+Input tol - error tolerance for iterrative solver:  
+Input mits - Maximum iterations for solver:  
+-> matrix size: 25455x25455
+-> alpha: 0.800000
+-> relax: 1.000000
+-> tolerance: 0.000000
+-> #of iterations: 20 
+
+ Number of iterations : 20
+ Residual             : 1.943765e-13
+ Solution Error       : 0.000020952723
+ Elapsed Time         : 17.7587913
+ MFlops               : 9485.012338
+Input n - matrix size in x direction:  
+Input m - matrix size in y direction: 
+Input alpha - Helmholtz constant:  
+Input relax - Successive over-relaxation parameter: 
+Input tol - error tolerance for iterrative solver:  
+Input mits - Maximum iterations for solver:  
+-> matrix size: 25455x25455
+-> alpha: 0.800000
+-> relax: 1.000000
+-> tolerance: 0.000000
+-> #of iterations: 20 
+
+ Number of iterations : 20
+ Residual             : 1.943765e-13
+ Solution Error       : 0.000020952723
+ Elapsed Time         : 17.7391431
+ MFlops               : 9495.518121
+Input n - matrix size in x direction:  
+Input m - matrix size in y direction: 
+Input alpha - Helmholtz constant:  
+Input relax - Successive over-relaxation parameter: 
+Input tol - error tolerance for iterrative solver:  
+Input mits - Maximum iterations for solver:  
+-> matrix size: 25455x25455
+-> alpha: 0.800000
+-> relax: 1.000000
+-> tolerance: 0.000000
+-> #of iterations: 20 
+
+ Number of iterations : 20
+ Residual             : 1.943765e-13
+ Solution Error       : 0.000020952723
+ Elapsed Time         : 17.7531168
+ MFlops               : 9488.044072
+Input n - matrix size in x direction:  
+Input m - matrix size in y direction: 
+Input alpha - Helmholtz constant:  
+Input relax - Successive over-relaxation parameter: 
+Input tol - error tolerance for iterrative solver:  
+Input mits - Maximum iterations for solver:  
+-> matrix size: 25455x25455
+-> alpha: 0.800000
+-> relax: 1.000000
+-> tolerance: 0.000000
+-> #of iterations: 20 
+
+ Number of iterations : 20
+ Residual             : 1.943765e-13
+ Solution Error       : 0.000020952723
+ Elapsed Time         : 17.7374624
+ MFlops               : 9496.417816
+Input n - matrix size in x direction:  
+Input m - matrix size in y direction: 
+Input alpha - Helmholtz constant:  
+Input relax - Successive over-relaxation parameter: 
+Input tol - error tolerance for iterrative solver:  
+Input mits - Maximum iterations for solver:  
+-> matrix size: 25455x25455
+-> alpha: 0.800000
+-> relax: 1.000000
+-> tolerance: 0.000000
+-> #of iterations: 20 
+
+ Number of iterations : 20
+ Residual             : 1.943765e-13
+ Solution Error       : 0.000020952723
+ Elapsed Time         : 17.8424600
+ MFlops               : 9440.534212

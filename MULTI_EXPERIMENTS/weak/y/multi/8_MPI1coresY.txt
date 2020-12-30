@@ -1,0 +1,150 @@
+Input n - matrix size in x direction:  
+Input m - matrix size in y direction: 
+Input alpha - Helmholtz constant:  
+Input relax - Successive over-relaxation parameter: 
+Input tol - error tolerance for iterrative solver:  
+Input mits - Maximum iterations for solver:  
+-> matrix size: 46000x46000
+-> alpha: 0.800000
+-> relax: 1.000000
+-> tolerance: 0.000000
+-> #of iterations: 20 
+
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+ Number of iterations : 20
+ Residual             : 3.293471e-14
+ Solution Error       : 0.000011593950
+ Elapsed Time         : 21.4676295
+ MFlops               : 25625.193571
+Input n - matrix size in x direction:  
+Input m - matrix size in y direction: 
+Input alpha - Helmholtz constant:  
+Input relax - Successive over-relaxation parameter: 
+Input tol - error tolerance for iterrative solver:  
+Input mits - Maximum iterations for solver:  
+-> matrix size: 46000x46000
+-> alpha: 0.800000
+-> relax: 1.000000
+-> tolerance: 0.000000
+-> #of iterations: 20 
+
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+ Number of iterations : 20
+ Residual             : 3.293471e-14
+ Solution Error       : 0.000011593950
+ Elapsed Time         : 21.4293596
+ MFlops               : 25670.956696
+Input n - matrix size in x direction:  
+Input m - matrix size in y direction: 
+Input alpha - Helmholtz constant:  
+Input relax - Successive over-relaxation parameter: 
+Input tol - error tolerance for iterrative solver:  
+Input mits - Maximum iterations for solver:  
+-> matrix size: 46000x46000
+-> alpha: 0.800000
+-> relax: 1.000000
+-> tolerance: 0.000000
+-> #of iterations: 20 
+
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+ Number of iterations : 20
+ Residual             : 3.293471e-14
+ Solution Error       : 0.000011593950
+ Elapsed Time         : 21.4388705
+ MFlops               : 25659.568230
+Input n - matrix size in x direction:  
+Input m - matrix size in y direction: 
+Input alpha - Helmholtz constant:  
+Input relax - Successive over-relaxation parameter: 
+Input tol - error tolerance for iterrative solver:  
+Input mits - Maximum iterations for solver:  
+-> matrix size: 46000x46000
+-> alpha: 0.800000
+-> relax: 1.000000
+-> tolerance: 0.000000
+-> #of iterations: 20 
+
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+ Number of iterations : 20
+ Residual             : 3.293471e-14
+ Solution Error       : 0.000011593950
+ Elapsed Time         : 21.4581994
+ MFlops               : 25636.454864
+Input n - matrix size in x direction:  
+Input m - matrix size in y direction: 
+Input alpha - Helmholtz constant:  
+Input relax - Successive over-relaxation parameter: 
+Input tol - error tolerance for iterrative solver:  
+Input mits - Maximum iterations for solver:  
+-> matrix size: 46000x46000
+-> alpha: 0.800000
+-> relax: 1.000000
+-> tolerance: 0.000000
+-> #of iterations: 20 
+
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+ Number of iterations : 20
+ Residual             : 3.293471e-14
+ Solution Error       : 0.000011593950
+ Elapsed Time         : 21.4498495
+ MFlops               : 25646.434555
+Input n - matrix size in x direction:  
+Input m - matrix size in y direction: 
+Input alpha - Helmholtz constant:  
+Input relax - Successive over-relaxation parameter: 
+Input tol - error tolerance for iterrative solver:  
+Input mits - Maximum iterations for solver:  
+-> matrix size: 46000x46000
+-> alpha: 0.800000
+-> relax: 1.000000
+-> tolerance: 0.000000
+-> #of iterations: 20 
+
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+ Number of iterations : 20
+ Residual             : 3.293471e-14
+ Solution Error       : 0.000011593950
+ Elapsed Time         : 21.4733105
+ MFlops               : 25618.414086

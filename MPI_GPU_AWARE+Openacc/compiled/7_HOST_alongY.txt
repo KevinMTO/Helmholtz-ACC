@@ -1,0 +1,144 @@
+Input n - matrix size in x direction:  
+Input m - matrix size in y direction: 
+Input alpha - Helmholtz constant:  
+Input relax - Successive over-relaxation parameter: 
+Input tol - error tolerance for iterrative solver:  
+Input mits - Maximum iterations for solver:  
+-> matrix size: 42332x42332
+-> alpha: 0.800000
+-> relax: 1.000000
+-> tolerance: 0.000000
+-> #of iterations: 20 
+
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+ Number of iterations : 20
+ Residual             : 4.225946e-14
+ Solution Error       : 0.000012598524
+ Elapsed Time         : 20.3243978
+ MFlops               : 22921.983660
+Input n - matrix size in x direction:  
+Input m - matrix size in y direction: 
+Input alpha - Helmholtz constant:  
+Input relax - Successive over-relaxation parameter: 
+Input tol - error tolerance for iterrative solver:  
+Input mits - Maximum iterations for solver:  
+-> matrix size: 42332x42332
+-> alpha: 0.800000
+-> relax: 1.000000
+-> tolerance: 0.000000
+-> #of iterations: 20 
+
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+ Number of iterations : 20
+ Residual             : 4.225946e-14
+ Solution Error       : 0.000012598524
+ Elapsed Time         : 20.2984476
+ MFlops               : 22951.287860
+Input n - matrix size in x direction:  
+Input m - matrix size in y direction: 
+Input alpha - Helmholtz constant:  
+Input relax - Successive over-relaxation parameter: 
+Input tol - error tolerance for iterrative solver:  
+Input mits - Maximum iterations for solver:  
+-> matrix size: 42332x42332
+-> alpha: 0.800000
+-> relax: 1.000000
+-> tolerance: 0.000000
+-> #of iterations: 20 
+
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+ Number of iterations : 20
+ Residual             : 4.225946e-14
+ Solution Error       : 0.000012598524
+ Elapsed Time         : 20.3117564
+ MFlops               : 22936.249519
+Input n - matrix size in x direction:  
+Input m - matrix size in y direction: 
+Input alpha - Helmholtz constant:  
+Input relax - Successive over-relaxation parameter: 
+Input tol - error tolerance for iterrative solver:  
+Input mits - Maximum iterations for solver:  
+-> matrix size: 42332x42332
+-> alpha: 0.800000
+-> relax: 1.000000
+-> tolerance: 0.000000
+-> #of iterations: 20 
+
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+ Number of iterations : 20
+ Residual             : 4.225946e-14
+ Solution Error       : 0.000012598524
+ Elapsed Time         : 20.3167424
+ MFlops               : 22930.620692
+Input n - matrix size in x direction:  
+Input m - matrix size in y direction: 
+Input alpha - Helmholtz constant:  
+Input relax - Successive over-relaxation parameter: 
+Input tol - error tolerance for iterrative solver:  
+Input mits - Maximum iterations for solver:  
+-> matrix size: 42332x42332
+-> alpha: 0.800000
+-> relax: 1.000000
+-> tolerance: 0.000000
+-> #of iterations: 20 
+
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+ Number of iterations : 20
+ Residual             : 4.225946e-14
+ Solution Error       : 0.000012598524
+ Elapsed Time         : 20.3664120
+ MFlops               : 22874.697548
+Input n - matrix size in x direction:  
+Input m - matrix size in y direction: 
+Input alpha - Helmholtz constant:  
+Input relax - Successive over-relaxation parameter: 
+Input tol - error tolerance for iterrative solver:  
+Input mits - Maximum iterations for solver:  
+-> matrix size: 42332x42332
+-> alpha: 0.800000
+-> relax: 1.000000
+-> tolerance: 0.000000
+-> #of iterations: 20 
+
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+ Number of iterations : 20
+ Residual             : 4.225946e-14
+ Solution Error       : 0.000012598524
+ Elapsed Time         : 20.2946598
+ MFlops               : 22955.571480

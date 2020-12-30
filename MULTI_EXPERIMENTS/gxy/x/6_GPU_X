@@ -1,0 +1,246 @@
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+Input n - matrix size in x direction:  
+Input m - matrix size in y direction: 
+Input alpha - Helmholtz constant:  
+Input relax - Successive over-relaxation parameter: 
+Input tol - error tolerance for iterrative solver:  
+Input mits - Maximum iterations for solver:  
+-> matrix size: 39191x39191
+-> alpha: 0.800000
+-> relax: 1.000000
+-> tolerance: 0.000000
+-> #of iterations: 20 
+
+number_devices
+number_devices
+number_devices
+LOCAL RANK 0 DEVICES 8  ASSIGNMENT 0 ID-GPU0 
+number_devices
+number_devices
+number_devices
+LOCAL RANK 5 DEVICES 8  ASSIGNMENT 5 ID-GPU5 
+LOCAL RANK 1 DEVICES 8  ASSIGNMENT 1 ID-GPU1 
+LOCAL RANK 2 DEVICES 8  ASSIGNMENT 2 ID-GPU2 
+LOCAL RANK 3 DEVICES 8  ASSIGNMENT 3 ID-GPU3 
+LOCAL RANK 4 DEVICES 8  ASSIGNMENT 4 ID-GPU4 
+ Number of iterations : 20
+ Residual             : 1.139036e+10
+ Solution Error       : 9512372297.170524597168
+ Elapsed Time         : 2.6713774
+ MFlops               : 149474.280099
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+Input n - matrix size in x direction:  
+Input m - matrix size in y direction: 
+Input alpha - Helmholtz constant:  
+Input relax - Successive over-relaxation parameter: 
+Input tol - error tolerance for iterrative solver:  
+Input mits - Maximum iterations for solver:  
+-> matrix size: 39191x39191
+-> alpha: 0.800000
+-> relax: 1.000000
+-> tolerance: 0.000000
+-> #of iterations: 20 
+
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+LOCAL RANK 0 DEVICES 8  ASSIGNMENT 0 ID-GPU0 
+LOCAL RANK 1 DEVICES 8  ASSIGNMENT 1 ID-GPU1 
+LOCAL RANK 3 DEVICES 8  ASSIGNMENT 3 ID-GPU3 
+LOCAL RANK 4 DEVICES 8  ASSIGNMENT 4 ID-GPU4 
+LOCAL RANK 2 DEVICES 8  ASSIGNMENT 2 ID-GPU2 
+LOCAL RANK 5 DEVICES 8  ASSIGNMENT 5 ID-GPU5 
+ Number of iterations : 20
+ Residual             : 5.325687e-14
+ Solution Error       : 0.000013610300
+ Elapsed Time         : 2.7011701
+ MFlops               : 147825.643432
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+Input n - matrix size in x direction:  
+Input m - matrix size in y direction: 
+Input alpha - Helmholtz constant:  
+Input relax - Successive over-relaxation parameter: 
+Input tol - error tolerance for iterrative solver:  
+Input mits - Maximum iterations for solver:  
+-> matrix size: 39191x39191
+-> alpha: 0.800000
+-> relax: 1.000000
+-> tolerance: 0.000000
+-> #of iterations: 20 
+
+number_devices
+number_devices
+number_devices
+number_devices
+LOCAL RANK 0 DEVICES 8  ASSIGNMENT 0 ID-GPU0 
+number_devices
+number_devices
+LOCAL RANK 5 DEVICES 8  ASSIGNMENT 5 ID-GPU5 
+LOCAL RANK 1 DEVICES 8  ASSIGNMENT 1 ID-GPU1 
+LOCAL RANK 4 DEVICES 8  ASSIGNMENT 4 ID-GPU4 
+LOCAL RANK 2 DEVICES 8  ASSIGNMENT 2 ID-GPU2 
+LOCAL RANK 3 DEVICES 8  ASSIGNMENT 3 ID-GPU3 
+ Number of iterations : 20
+ Residual             : 5.325687e-14
+ Solution Error       : 0.000013610300
+ Elapsed Time         : 2.6753361
+ MFlops               : 149253.098195
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+Input n - matrix size in x direction:  
+Input m - matrix size in y direction: 
+Input alpha - Helmholtz constant:  
+Input relax - Successive over-relaxation parameter: 
+Input tol - error tolerance for iterrative solver:  
+Input mits - Maximum iterations for solver:  
+-> matrix size: 39191x39191
+-> alpha: 0.800000
+-> relax: 1.000000
+-> tolerance: 0.000000
+-> #of iterations: 20 
+
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+LOCAL RANK 0 DEVICES 8  ASSIGNMENT 0 ID-GPU0 
+LOCAL RANK 4 DEVICES 8  ASSIGNMENT 4 ID-GPU4 
+LOCAL RANK 5 DEVICES 8  ASSIGNMENT 5 ID-GPU5 
+LOCAL RANK 1 DEVICES 8  ASSIGNMENT 1 ID-GPU1 
+LOCAL RANK 3 DEVICES 8  ASSIGNMENT 3 ID-GPU3 
+LOCAL RANK 2 DEVICES 8  ASSIGNMENT 2 ID-GPU2 
+ Number of iterations : 20
+ Residual             : 5.325687e-14
+ Solution Error       : 0.000013610300
+ Elapsed Time         : 2.6305354
+ MFlops               : 151795.030543
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+Input n - matrix size in x direction:  
+Input m - matrix size in y direction: 
+Input alpha - Helmholtz constant:  
+Input relax - Successive over-relaxation parameter: 
+Input tol - error tolerance for iterrative solver:  
+Input mits - Maximum iterations for solver:  
+-> matrix size: 39191x39191
+-> alpha: 0.800000
+-> relax: 1.000000
+-> tolerance: 0.000000
+-> #of iterations: 20 
+
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+LOCAL RANK 0 DEVICES 8  ASSIGNMENT 0 ID-GPU0 
+LOCAL RANK 5 DEVICES 8  ASSIGNMENT 5 ID-GPU5 
+LOCAL RANK 2 DEVICES 8  ASSIGNMENT 2 ID-GPU2 
+LOCAL RANK 4 DEVICES 8  ASSIGNMENT 4 ID-GPU4 
+LOCAL RANK 3 DEVICES 8  ASSIGNMENT 3 ID-GPU3 
+LOCAL RANK 1 DEVICES 8  ASSIGNMENT 1 ID-GPU1 
+ Number of iterations : 20
+ Residual             : 5.325687e-14
+ Solution Error       : 0.000013610300
+ Elapsed Time         : 2.6134658
+ MFlops               : 152786.468005
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+Input n - matrix size in x direction:  
+Input m - matrix size in y direction: 
+Input alpha - Helmholtz constant:  
+Input relax - Successive over-relaxation parameter: 
+Input tol - error tolerance for iterrative solver:  
+Input mits - Maximum iterations for solver:  
+-> matrix size: 39191x39191
+-> alpha: 0.800000
+-> relax: 1.000000
+-> tolerance: 0.000000
+-> #of iterations: 20 
+
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+LOCAL RANK 0 DEVICES 8  ASSIGNMENT 0 ID-GPU0 
+LOCAL RANK 5 DEVICES 8  ASSIGNMENT 5 ID-GPU5 
+LOCAL RANK 2 DEVICES 8  ASSIGNMENT 2 ID-GPU2 
+LOCAL RANK 4 DEVICES 8  ASSIGNMENT 4 ID-GPU4 
+LOCAL RANK 1 DEVICES 8  ASSIGNMENT 1 ID-GPU1 
+LOCAL RANK 3 DEVICES 8  ASSIGNMENT 3 ID-GPU3 
+ Number of iterations : 20
+ Residual             : 5.325687e-14
+ Solution Error       : 0.000013610300
+ Elapsed Time         : 2.6620958
+ MFlops               : 149995.429131

@@ -1,0 +1,37 @@
+2=========================
+ 
+  Number of iterations : 20
+ Residual             : 2.767442e-13
+ Solution Error       : 0.000023571566
+ Elapsed Time         : 2.1449655
+ MFlops               : 62048.347188
+ 
+  Number of iterations : 20
+ Residual             : 2.767442e-13
+ Solution Error       : 0.000023571566
+ Elapsed Time         : 2.0857153
+ MFlops               : 63810.990617
+ 
+  Number of iterations : 20
+ Residual             : 2.767442e-13
+ Solution Error       : 0.000023571566
+ Elapsed Time         : 2.1344842
+ MFlops               : 62353.033636
+  Number of iterations : 20
+ Residual             : 2.767442e-13
+ Solution Error       : 0.000023571566
+ Elapsed Time         : 2.1422966
+ MFlops               : 62125.646291
+ 
+  Number of iterations : 20
+ Residual             : 2.767442e-13
+ Solution Error       : 0.000023571566
+ Elapsed Time         : 2.1477665
+ MFlops               : 61967.425471
+ 
+  Number of iterations : 20
+ Residual             : 2.767442e-13
+ Solution Error       : 0.000023571566
+ Elapsed Time         : 2.1766980
+ MFlops               : 61143.789002
+ 

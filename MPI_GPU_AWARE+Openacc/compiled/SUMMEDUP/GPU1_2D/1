@@ -1,0 +1,36 @@
+ Number of iterations : 20
+ Residual             : 7.827449e-13
+ Solution Error       : 0.000033331235
+ Elapsed Time         : 2.0753033
+ MFlops               : 32064.402599
+ 
+ Number of iterations : 20
+ Residual             : 7.827449e-13
+ Solution Error       : 0.000033331235
+ Elapsed Time         : 1.9140486
+ MFlops               : 34765.763308
+ 
+ Number of iterations : 20
+ Residual             : 7.827449e-13
+ Solution Error       : 0.000033331235
+ Elapsed Time         : 1.9266749
+ MFlops               : 34537.928892
+ 
+ 
+ Number of iterations : 20
+ Residual             : 7.827449e-13
+ Solution Error       : 0.000033331235
+ Elapsed Time         : 1.9173735
+ MFlops               : 34705.475716
+ 
+  Number of iterations : 20
+ Residual             : 7.827449e-13
+ Solution Error       : 0.000033331235
+ Elapsed Time         : 1.9212709
+ MFlops               : 34635.073855
+ 
+  Number of iterations : 20
+ Residual             : 7.827449e-13
+ Solution Error       : 0.000033331235
+ Elapsed Time         : 1.9522151
+ MFlops               : 34086.081157

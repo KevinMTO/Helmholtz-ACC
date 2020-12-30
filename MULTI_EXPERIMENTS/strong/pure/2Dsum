@@ -1,0 +1,4 @@
+1_MPI8cores2Dstrongpure.txt VARIANCE 8.890 AVG 5308.886 
+2_MPI4cores2Dstrongpure.txt VARIANCE 283.167 AVG 10396.006 
+4_MPI2cores2Dstrongpure.txt VARIANCE 643.121 AVG 18896.495 
+8_MPI1cores2Dstrongpure.txt VARIANCE 82.470 AVG 28468.611 

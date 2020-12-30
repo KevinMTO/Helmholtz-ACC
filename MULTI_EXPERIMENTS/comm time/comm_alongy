@@ -1,0 +1,581 @@
+--------------------------------------------------------------------------
+Input n - matrix size in x direction:  
+Input m - matrix size in y direction: 
+Input alpha - Helmholtz constant:  
+Input relax - Successive over-relaxation parameter: 
+Input tol - error tolerance for iterrative solver:  
+Input mits - Maximum iterations for solver:  
+-> matrix size: 42332x42332
+-> alpha: 0.800000
+-> relax: 1.000000
+-> tolerance: 0.000000
+-> #of iterations: 20 
+
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+LOCAL RANK 0 DEVICES 7  ASSIGNMENT 0 ID-GPU0 
+number_devices
+number_devices
+LOCAL RANK 5 DEVICES 7  ASSIGNMENT 5 ID-GPU5 
+LOCAL RANK 1 DEVICES 7  ASSIGNMENT 1 ID-GPU1 
+LOCAL RANK 3 DEVICES 7  ASSIGNMENT 3 ID-GPU3 
+LOCAL RANK 2 DEVICES 7  ASSIGNMENT 2 ID-GPU2 
+LOCAL RANK 4 DEVICES 7  ASSIGNMENT 4 ID-GPU4 
+LOCAL RANK 6 DEVICES 7  ASSIGNMENT 6 ID-GPU6 
+[n371-003.vsc3.prov:01934] 6 more processes have sent help message help-mpi-btl-base.txt / btl:no-nics
+[n371-003.vsc3.prov:01934] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+ Number of iterations : 20
+ Residual             : 4.225946e-14
+ Solution Error       : 0.000012598524
+ Elapsed Time         : 3.1336289
+ MFlops               : 148669.652033
+
+Accelerator Kernel Timing data
+    Timing may be affected by asynchronous behavior
+    set PGI_ACC_SYNCHRONOUS to 1 to disable async() clauses
+/home/lv70824/kmato/tr/hy/HY-VSC/jacobi/C-hyb-jacobi/GPU2/./jacobiGPU.c
+  Jacobi  NVIDIA  devicenum=0
+    time(us): 0
+    59: data region reached 1 time
+/home/lv70824/kmato/tr/hy/HY-VSC/jacobi/C-hyb-jacobi/GPU2/./jacobiGPU.c
+  Jacobi  NVIDIA  devicenum=2
+    time(us): 2,035
+    59: data region reached 1 time
+    120: compute region reached 20 times
+        120: kernel launched 20 times
+            grid: [1024]  block: [128]
+            elapsed time(us): total=8,650 max=1,479 min=253 avg=432
+        120: reduction kernel launched 20 times
+            grid: [1]  block: [256]
+            elapsed time(us): total=356 max=32 min=15 avg=17
+    120: data region reached 80 times
+        120: data copyin transfers: 40
+             device time(us): total=262 max=28 min=3 avg=6
+        126: data copyout transfers: 20
+             device time(us): total=205 max=40 min=8 avg=10
+    132: compute region reached 20 times
+        132: kernel launched 20 times
+            grid: [1024]  block: [128]
+            elapsed time(us): total=7,422 max=1,168 min=290 avg=371
+        132: reduction kernel launched 20 times
+            grid: [1]  block: [256]
+            elapsed time(us): total=341 max=22 min=16 avg=17
+    132: data region reached 80 times
+        132: data copyin transfers: 40
+             device time(us): total=213 max=11 min=3 avg=5
+        137: data copyout transfers: 20
+             device time(us): total=164 max=13 min=7 avg=8
+    143: compute region reached 20 times
+        143: kernel launched 20 times
+            grid: [1024]  block: [128]
+            elapsed time(us): total=313,323 max=312,659 min=33 avg=15,666
+        143: reduction kernel launched 20 times
+            grid: [1]  block: [256]
+            elapsed time(us): total=304 max=60 min=12 avg=15
+    143: data region reached 80 times
+        143: data copyin transfers: 40
+             device time(us): total=213 max=10 min=3 avg=5
+        150: data copyout transfers: 20
+             device time(us): total=149 max=26 min=6 avg=7
+    156: compute region reached 20 times
+        156: kernel launched 20 times
+            grid: [1024]  block: [128]
+            elapsed time(us): total=792 max=227 min=28 avg=39
+        156: reduction kernel launched 20 times
+            grid: [1]  block: [256]
+            elapsed time(us): total=261 max=21 min=12 avg=13
+    156: data region reached 80 times
+        156: data copyin transfers: 40
+             device time(us): total=173 max=11 min=3 avg=4
+        163: data copyout transfers: 20
+             device time(us): total=135 max=11 min=6 avg=6
+    169: compute region reached 20 times
+        169: kernel launched 20 times
+            grid: [1024]  block: [128]
+            elapsed time(us): total=1,682,967 max=656,534 min=53,333 avg=84,148
+        169: reduction kernel launched 20 times
+            grid: [1]  block: [256]
+            elapsed time(us): total=354 max=64 min=13 avg=17
+        169: data copyin transfers: 20
+             device time(us): total=128 max=9 min=6 avg=6
+        169: data copyout transfers: 20
+             device time(us): total=268 max=45 min=10 avg=13
+    169: data region reached 80 times
+        169: data copyin transfers: 20
+             device time(us): total=125 max=23 min=5 avg=6
+/home/lv70824/kmato/tr/hy/HY-VSC/jacobi/C-hyb-jacobi/GPU2/./jacobiGPU.c
+  ExchangeJacobiMpiData  NVIDIA  devicenum=2
+    time(us): 0
+    329: data region reached 40 times
+    339: data region reached 40 times
+
+Accelerator Kernel Timing data
+    Timing may be affected by asynchronous behavior
+    set PGI_ACC_SYNCHRONOUS to 1 to disable async() clauses
+/home/lv70824/kmato/tr/hy/HY-VSC/jacobi/C-hyb-jacobi/GPU2/./jacobiGPU.c
+  Jacobi  NVIDIA  devicenum=0
+    time(us): 0
+
+Accelerator Kernel Timing data
+    Timing may be affected by asynchronous behavior
+    set PGI_ACC_SYNCHRONOUS to 1 to disable async() clauses
+/home/lv70824/kmato/tr/hy/HY-VSC/jacobi/C-hyb-jacobi/GPU2/./jacobiGPU.c
+  Jacobi  NVIDIA  devicenum=0
+    time(us): 0
+    59: data region reached 1 time
+/home/lv70824/kmato/tr/hy/HY-VSC/jacobi/C-hyb-jacobi/GPU2/./jacobiGPU.c
+  Jacobi  NVIDIA  devicenum=1
+    59: data region reached 1 time
+/home/lv70824/kmato/tr/hy/HY-VSC/jacobi/C-hyb-jacobi/GPU2/./jacobiGPU.c
+  Jacobi  NVIDIA  devicenum=5
+    time(us): 2,093
+    59: data region reached 1 time
+    120: compute region reached 20 times
+        120: kernel launched 20 times
+            grid: [1024]  block: [    time(us): 1,952
+    59: data region reached 1 time
+    120: compute region reached 20 times
+        120: kernel launched 20 times
+            grid: [1024]  block: [128]
+            elapsed time(us): total=8,000 max=1,735 min=253 avg=400
+        120: reduction kernel launched 20 times
+            grid: [1]  block: [256]
+            elapsed time(us): total=311 max=31 min=14 avg=15
+128]
+            elapsed time(us): total=10,831 max=1,337 min=347 avg=541
+        120: reduction kernel launched 20 times
+            grid: [1]  block: [256]
+            elapsed time(us): total=292 max=23 min=13 avg=14
+    120: data region reached 80 times
+        120: data copyin transfers: 40
+             device time(us): total=268 max=24 min=3 avg=6
+    120: data region reached 80 times
+        120: data copyin transfers: 40
+             device time(us): total=254 max=22 min=3 avg=6
+        126: data copyout transfers: 20
+             device time(us): total=187 max=30 min=8 avg=9
+    132: compute region reached 20 times
+        132: kernel launched 20 times
+            grid: [1024]  block: [        126: data copyout transfers: 20
+             device time(us): total=189 max=29 min=7 avg=9
+    132: compute region reached 20 times
+        132: kernel launched 20 times
+            grid: [1024]  block: [128]
+            elapsed time(us): total=7,419 max=1,085 min=294128]
+            elapsed time(us): total=8,485 max=1,395 min=254 avg=424
+        132: reduction kernel launched 20 times
+            grid: [1]  block: [256]
+            elapsed time(us): total=274 max=20
+Accelerator Kernel Timing data
+    Timing may be affected by asynchronous behavior
+    set PGI_ACC_SYNCHRONOUS to 1 to disable async() clauses
+/home/lv70824/kmato/tr/hy/HY-VSC/jacobi/C-hyb-jacobi/GPU2/./jacobiGPU.c
+  Jacobi  NVIDIA  devicenum=0
+    time(us):  avg=370
+        132: reduction kernel launched 20 times
+            grid: [1]  block: [256]
+            elapsed time(us): total=286 max=22 min=12 avg=14
+    132: data region reached 80 times
+        132: data copyin transfers: 40
+             device time(us): total=234 max=12 min=3 avg=5 min=12 avg=13
+    132: data region reached 80 times
+        132: data copyin transfers: 40
+             device time(us): total=205 max=11 min=3 avg=5
+        137: data copyout transfers: 20
+             device time(us): total=142 max=11 min=6 avg=7
+    143: compute region reached 20 times
+        143: kernel launched 20 times
+            grid: [1024]  block: [128]
+            elapsed time(us): total=404
+        137: data copyout transfers: 20
+             device time(us): total=155 max=10 min=7 avg=7
+    143: compute region reached 20 times
+        143: kernel launched 20 times
+            grid: [1024]  block: [128]
+            elapsed time(us): total=395,580 max=394,927 min=33 avg=19,779
+0
+    59: data region reached 1 time
+/home/lv70824/kmato/tr/hy/HY-VSC/jacobi/C-hyb-jacobi/GPU2/./jacobiGPU.c
+  Jacobi  NVIDIA  devicenum=3
+    time(us): 1,998
+    59: data region reached 1 time
+    120: compute region reached 20 times
+        120: kernel launched 20 times
+            grid: [1024]  block: [128]
+            elapsed time(us): total=,713 max=404,044 min=34 avg=20,235
+        143: reduction kernel launched 20 times
+            grid: [1]  block: [256]
+            elapsed time(us): total=298 max=56 min=12 avg=14
+    143: data region reached 80 times
+        143: data copyin transfers: 40
+             device time(us): total=212 max=12 min=3 avg=518,250 max=1,503 min=560 avg=912
+        120: reduction kernel launched 20 times
+            grid: [1]  block: [256]
+            elapsed time(us): total=306 max=25 min=13 avg=15
+    120: data region reached 80 times
+        120: data copyin transfers: 40
+             device time(us): total=        143: reduction kernel launched 20 times
+            grid: [1]  block: [256]
+            elapsed time(us): total=323 max=63 min=12 avg=16
+    143: data region reached 80 times
+        143: data copyin transfers: 40
+             device time(us): total=216 max=11 min=3 avg=5
+        150: data copyout transfers: 20
+             device time(us): total=161 max=23 min=6 avg=8
+
+        150: data copyout transfers: 20
+             device time(us): total=151 max=21 min=6 avg=7
+    156: compute region reached 20 times
+        156: kernel launched 20 times
+            grid: [1024]  block: [128]
+            elapsed time(us): total=806 max=233 min=29 avg=40
+        156: reduction kernel launched 20 times
+            grid: [1]  block: [    156: compute region reached 20 times
+        156: kernel launched 20 times
+            grid: [1024]  block: [128]
+            elapsed time(us): total=886 max=307 min=29 avg=44
+        156: reduction kernel launched 20 times
+            grid: [1]  block: [256]
+            elapsed time(us): total=273 max=19 min=12 avg=13243 max=19 min=3 avg=6
+        126: data copyout transfers: 20
+             device time(us): total=190 max=26 min=7 avg=9
+    132: compute region reached 20 times
+        132: kernel launched 20 times
+            grid: [1024]  block: [128]
+            elapsed time(us): total=9,996 max=256]
+            elapsed time(us): total=270 max=19 min=13 avg=13
+    156: data region reached 80 times
+        156: data copyin transfers: 40
+             device time(us): total=188 max=11 min=3 avg=4
+        163: data copyout transfers: 20
+             device time(us): total=125 max=11 min=6 avg=6964 min=286 avg=499
+        132: reduction kernel launched 20 times
+            grid: [1]  block: [256]
+            elapsed time(us): total=275 max=17 min=13 avg=13
+    132: data region reached 80 times
+        132: data copyin transfers: 40
+             device time(us): total=212 max=12 min=
+    156: data region reached 80 times
+        156: data copyin transfers: 40
+             device time(us): total=200 max=12 min=3 avg=5
+        163: data copyout transfers: 20
+             device time(us): total=142 max=11 min=6 avg=7
+    169: compute region reached 20 times
+        169: kernel launched 20 times
+            grid: [1024]  block: [128]
+            elapsed time(us): total=1,848
+    169: compute region reached 20 times
+        169: kernel launched 20 times
+            grid: [1024]  block: [128]
+            elapsed time(us): total=1,854,036 max=830,760 min=52,863 avg=92,701
+        169: reduction kernel launched 20 times
+            grid: [1]  block: [256]
+            elapsed time(us): total=326 max=38 min=14 avg=16
+        169: data copyin transfers: 20
+             device time(us): total=131 max=10 min=6 avg=6
+        169: data copyout transfers: 20
+             device time(us): total=242 max=29 min=10,610 max=824,440 min=53,420 avg=92,430
+        169: reduction kernel launched 20 times
+            grid: [1]  block: [256]
+            elapsed time(us): total=351 max=54 min=13 avg=17
+        169: data copyin transfers: 20
+             device time(us): total=137 max=8 min=6 avg=6
+        169: data copyout transfers: 20
+             device time(us): total=251 max=35 min=10 avg=12
+    169: data region reached 80 times
+        169: data copyin transfers: 20
+             device time(us): total=140 max=14 min=53 avg=5
+        137: data copyout transfers: 20
+             device time(us): total=148 max=11 min=6 avg=7
+    143: compute region reached 20 times
+        143: kernel launched 20 times
+            grid: [1024]  block: [128]
+            elapsed time(us): total=326,325 max=325,681 min=32 avg=16,316
+        143: reduction kernel launched 20 times
+            grid: [1]  block: [256]
+            elapsed time(us): total=301 max=59 min= avg=12
+    169: data region reached 80 times
+        169: data copyin transfers: 20
+             device time(us): total=115 max=16 min=5 avg=5
+/home/lv70824/kmato/tr/hy/HY-VSC/jacobi/C-hyb-jacobi/GPU2/./jacobiGPU.c
+  ExchangeJacobiMpiData  NVIDIA  devicenum=1
+    time(us): 0
+    329: data region reached 40 times
+    339: data region reached 40 times
+12 avg=15
+    143: data region reached 80 times
+        143: data copyin transfers: 40
+             device time(us): total=205 max=9 min=3 avg=5
+        150: data copyout transfers: 20
+             device time(us): total=143 max=26 min=6 avg=7
+    156: compute region reached 20 times
+        156: kernel launched 20 times
+            grid: [1024]  block: [128 avg=7
+/home/lv70824/kmato/tr/hy/HY-VSC/jacobi/C-hyb-jacobi/GPU2/./jacobiGPU.c
+  ExchangeJacobiMpiData  NVIDIA  devicenum=5
+    time(us): 0
+    329: data region reached 40 times
+    339: data region reached 40 times
+]
+            elapsed time(us): total=779 max=217 min=28 avg=38
+        156: reduction kernel launched 20 times
+            grid: [1]  block: [256]
+            elapsed time(us): total=266 max=20 min=12 avg=13
+    156: data region reached 80 times
+        156: data copyin transfers: 40
+             device time(us): total=182 max=12 min=3 avg=4
+        163: data copyout transfers: 20
+             device time(us): total=127 max=9 min=5 avg=6
+    169: compute region reached 20 times
+        169: kernel launched 20 times
+            grid: [1024]  block: [128]
+            elapsed time(us): total=1,773,001 max=744,316 min=53,677 avg=88,650
+        169: reduction kernel launched 20 times
+            grid: [1]  block: [256]
+            elapsed time(us): total=332 max=56 min=13 avg=16
+        169: data copyin transfers: 20
+             device time(us): total=193 max=20 min=5 avg=9
+        169: data copyout transfers: 20
+             device time(us): total=242 max=35 min=10 avg=12
+    169: data region reached 80 times
+        169: data copyin transfers: 20
+             device time(us): total=113 max=12 min=5 avg=5
+/home/lv70824/kmato/tr/hy/HY-VSC/jacobi/C-hyb-jacobi/GPU2/./jacobiGPU.c
+  ExchangeJacobiMpiData  NVIDIA  devicenum=3
+    time(us): 0
+    329: data region reached 40 times
+    339: data region reached 40 times
+
+Accelerator Kernel Timing data
+    Timing may be affected by asynchronous behavior
+    set PGI_ACC_SYNCHRONOUS to 1 to disable async() clauses
+/home/lv70824/kmato/tr/hy/HY-VSC/jacobi/C-hyb-jacobi/GPU2/./jacobiGPU.c
+  Jacobi  NVIDIA  devicenum=0
+    time(us): 0
+    59: data region reached 1 time
+/home/lv70824/kmato/tr/hy/HY-VSC/jacobi/C-hyb-jacobi/GPU2/./jacobiGPU.c
+  Jacobi  NVIDIA  devicenum=4
+    time(us): 2,198
+    59: data region reached 1 time
+    120: compute region reached 20 times
+        120: kernel launched 20 times
+            grid: [1024]  block: [128]
+            elapsed time(us): total=15,437 max=1,440 min=616 avg=771
+        120: reduction kernel launched 20 times
+            grid: [1]  block: [256]
+            elapsed time(us): total=423 max=30 min=17 avg=21
+    120: data region reached 80 times
+        120: data copyin transfers: 40
+             device time(us): total=282 max=18 min=4 avg=7
+        126: data copyout transfers: 20
+             device time(us): total=233 max=29 min=9 avg=11
+    132: compute region reached 20 times
+        132: kernel launched 20 times
+            grid: [1024]  block: [128]
+            elapsed time(us): total=12,035 max=1,153 min=419 avg=601
+        132: reduction kernel launched 20 times
+            grid: [1]  block: [256]
+            elapsed time(us): total=300 max=28 min=13 avg=15
+    132: data region reached 80 times
+        132: data copyin transfers: 40
+             device time(us): total=244 max=12 min=3 avg=6
+        137: data copyout transfers: 20
+             device time(us): total=162 max=
+Accelerator Kernel Timing data
+    Timing may be affected by asynchronous behavior
+    set PGI_ACC_SYNCHRONOUS to 1 to disable async() clauses
+/home/lv70824/kmato/tr/hy/HY-VSC/jacobi/C-hyb-jacobi/GPU2/./jacobiGPU.c
+  Jacobi12 min=7 avg=8
+    143: compute region reached 20 times
+        143: kernel launched 20 times
+            grid: [1024]  block: [128]
+            elapsed time(us): total=316,949 max=316  NVIDIA  devicenum=0
+    time(us): 0
+    59: data region reached 1 time
+,295 min=32 avg=15,847
+        143: reduction kernel launched 20 times
+            grid: [1]  block: [256]
+            elapsed time(us): total=316 max=/home/lv70824/kmato/tr/hy/HY-VSC/jacobi/C-hyb-jacobi/GPU2/./jacobiGPU.c
+  Jacobi  NVIDIA  devicenum=6
+    time(us): 2,142
+61 min=13 avg=15
+    143: data region reached 80 times
+        143: data copyin transfers: 40
+             device time(us): total=225 max=12 min=3 avg=    59: data region reached 1 time
+    120: compute region reached 20 times
+        120: kernel launched 20 times
+            grid: [1024]  block: [128]
+            elapsed time(us):5
+        150: data copyout transfers: 20
+             device time(us): total=161 max=27 min=6 avg=8
+    156: compute region reached 20 times
+        156: kernel launched 20 times
+            grid: [1024]  block: [128 total=16,674 max=1,335 min=640 avg=833
+        120: reduction kernel launched 20 times
+]
+            elapsed time(us): total=792 max=204 min=29 avg=39
+        156: reduction kernel launched 20 times
+            grid: [1]  block: [256]
+            elapsed time(us):            grid: [1]  block: [256]
+            elapsed time(us): total=306 max=27 min=13 total=284 max=23 min=12 avg=14
+    156: data region reached 80 times
+        156: data copyin transfers: 40
+             device time(us): total=197 max=14 min= avg=15
+    120: data region reached 80 times
+        120: data copyin transfers: 40
+             device time(us): total=288 max=27 min=3 avg=4
+        163: data copyout transfers: 20
+             device time(us): total=150 max=12 min=5 avg=7
+    169: compute region reached 20 times
+4 avg=7
+        126: data copyout transfers: 20
+             device time(us): total=193 max=35 min=        169: kernel launched 20 times
+            grid: [1024]  block: [128]
+            elapsed time(us): total=1,803,071 max=781,690 min=53,2398 avg=9
+    132: compute region reached 20 times
+        132: kernel launched 20 times
+            grid: [1024]  block: [128]
+ avg=90,153
+        169: reduction kernel launched 20 times
+            grid: [1]  block: [256]
+            elapsed time(us): total=371 max=43 min=            elapsed time(us): total=1,549 max=987 min=28 avg=77
+15 avg=18
+        169: data copyin transfers: 20
+             device time(us): total=139 max=10 min=6 avg=6
+        132: reduction kernel launched 20 times
+            grid: [1]  block: [256]
+            elapsed time(us): total=296 max=28        169: data copyout transfers: 20
+             device time(us): total=268 max=30 min=12 avg=13
+    169: data region reached 80 times
+        169: data copyin transfers: 20
+             device time(us): total=137 min=13 avg=14
+    132: data region reached 80 times
+        132: data copyin transfers: 40
+             device time(us): total=220 max=18 min=5 avg=6
+/home/lv70824/kmato/tr/hy/HY-VSC/jacobi/C-hyb-jacobi/GPU2/./jacobiGPU.c
+  ExchangeJacobiMpiData  NVIDIA  devicenum=4
+    time(us): 0
+    329: data region reached 40 times
+ max=15 min=3 avg=5
+        137: data copyout transfers: 20
+             device time(us): total=147 max=    339: data region reached 40 times
+14 min=4 avg=7
+    143: compute region reached 20 times
+        143: kernel launched 20 times
+            grid: [1024]  block: [128]
+            elapsed time(us): total=311,756 max=311,070 min=34 avg=15,587
+        143: reduction kernel launched 20 times
+            grid: [1]  block: [256]
+            elapsed time(us): total=339 max=65 min=12 avg=16
+    143: data region reached 80 times
+        143: data copyin transfers: 40
+             device time(us): total=193 max=10 min=3 avg=4
+        150: data copyout transfers: 20
+             device time(us): total=174 max=27 min=7 avg=8
+    156: compute region reached 20 times
+        156: kernel launched 20 times
+            grid: [1024]  block: [128]
+            elapsed time(us): total=845 max=261 min=30 avg=42
+        156: reduction kernel launched 20 times
+            grid: [1]  block: [256]
+            elapsed time(us): total=278 max=23 min=13 avg=13
+    156: data region reached 80 times
+        156: data copyin transfers: 40
+             device time(us): total=210 max=13 min=3 avg=5
+        163: data copyout transfers: 20
+             device time(us): total=152 max=13 min=7 avg=7
+    169: compute region reached 20 times
+        169: kernel launched 20 times
+            grid: [1024]  block: [128]
+            elapsed time(us): total=1,838,263 max=812,533 min=53,461 avg=91,913
+        169: reduction kernel launched 20 times
+            grid: [1]  block: [256]
+            elapsed time(us): total=469 max=64 min=14 avg=23
+        169: data copyin transfers: 20
+             device time(us): total=136 max=10 min=6 avg=6
+        169: data copyout transfers: 20
+             device time(us): total=302 max=40 min=12 avg=15
+    169: data region reached 80 times
+        169: data copyin transfers: 20
+             device time(us): total=127 max=19 min=5 avg=6
+/home/lv70824/kmato/tr/hy/HY-VSC/jacobi/C-hyb-jacobi/GPU2/./jacobiGPU.c
+  ExchangeJacobiMpiData  NVIDIA  devicenum=6
+    time(us): 0
+    329: data region reached 40 times
+
+Accelerator Kernel Timing data
+    Timing may be affected by asynchronous behavior
+    set PGI_ACC_SYNCHRONOUS to 1 to disable async() clauses
+/home/lv70824/kmato/tr/hy/HY-VSC/jacobi/C-hyb-jacobi/GPU2/./jacobiGPU.c
+  Jacobi  NVIDIA  devicenum=0
+    time(us): 6,524
+    59: data region reached 2 times
+    120: compute region reached 20 times
+        120: kernel launched 20 times
+            grid: [1024]  block: [128]
+            elapsed time(us): total=2,449 max=1,129 min=67 avg=122
+        120: reduction kernel launched 20 times
+            grid: [1]  block: [256]
+            elapsed time(us): total=358 max=25 min=16 avg=17
+    120: data region reached 80 times
+        120: data copyin transfers: 40
+             device time(us): total=284 max=14 min=3 avg=7
+        126: data copyout transfers: 20
+             device time(us): total=228 max=28 min=9 avg=11
+    132: compute region reached 20 times
+        132: kernel launched 20 times
+            grid: [1024]  block: [128]
+            elapsed time(us): total=1,671 max=816 min=32 avg=83
+        132: reduction kernel launched 20 times
+            grid: [1]  block: [256]
+            elapsed time(us): total=494 max=50 min=14 avg=24
+    132: data region reached 80 times
+        132: data copyin transfers: 40
+             device time(us): total=480 max=53 min=3 avg=12
+        137: data copyout transfers: 20
+             device time(us): total=3,624 max=411 min=9 avg=181
+    143: compute region reached 20 times
+        143: kernel launched 20 times
+            grid: [1024]  block: [128]
+            elapsed time(us): total=246,724 max=246,059 min=30 avg=12,336
+        143: reduction kernel launched 20 times
+            grid: [1]  block: [256]
+            elapsed time(us): total=462 max=51 min=12 avg=23
+    143: data region reached 80 times
+        143: data copyin transfers: 40
+             device time(us): total=270 max=14 min=2 avg=6
+        150: data copyout transfers: 20
+             device time(us): total=657 max=86 min=4 avg=32
+    156: compute region reached 20 times
+        156: kernel launched 20 times
+            grid: [1024]  block: [128]
+            elapsed time(us): total=804 max=173 min=29 avg=40
+        156: reduction kernel launched 20 times
+            grid: [1]  block: [256]
+            elapsed time(us): total=348 max=47 min=12 avg=17
+    156: data region reached 80 times
+        156: data copyin transfers: 40
+             device time(us): total=217 max=11 min=2 avg=5
+        163: data copyout transfers: 20
+             device time(us): total=244 max=49 min=6 avg=12
+    169: compute region reached 20 times
+        169: kernel launched 20 times
+            grid: [1024]  block: [128]
+            elapsed time(us): total=1,627,752 max=606,610 min=53,288 avg=81,387
+        169: reduction kernel launched 20 times
+            grid: [1]  block: [256]
+            elapsed time(us): total=343 max=54 min=13 avg=17
+        169: data copyin transfers: 20
+             device time(us): total=109 max=7 min=4 avg=5
+        169: data copyout transfers: 20
+             device time(us): total=279 max=31 min=12 avg=13
+    169: data region reached 80 times
+        169: data copyin transfers: 20
+             device time(us): total=132 max=13 min=5 avg=6
+/home/lv70824/kmato/tr/hy/HY-VSC/jacobi/C-hyb-jacobi/GPU2/./jacobiGPU.c
+  ExchangeJacobiMpiData  NVIDIA  devicenum=0
+    time(us): 0
+    339: data region reached 40 times

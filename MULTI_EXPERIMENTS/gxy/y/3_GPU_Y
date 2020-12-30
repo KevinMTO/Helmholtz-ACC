@@ -1,0 +1,138 @@
+Input n - matrix size in x direction:  
+Input m - matrix size in y direction: 
+Input alpha - Helmholtz constant:  
+Input relax - Successive over-relaxation parameter: 
+Input tol - error tolerance for iterrative solver:  
+Input mits - Maximum iterations for solver:  
+-> matrix size: 27712x27712
+-> alpha: 0.800000
+-> relax: 1.000000
+-> tolerance: 0.000000
+-> #of iterations: 20 
+
+number_devices
+number_devices
+LOCAL RANK 0 DEVICES 7  ASSIGNMENT 0 ID-GPU0 
+number_devices
+LOCAL RANK 1 DEVICES 7  ASSIGNMENT 1 ID-GPU1 
+LOCAL RANK 2 DEVICES 7  ASSIGNMENT 2 ID-GPU2 
+ Number of iterations : 20
+ Residual             : 1.506425e-13
+ Solution Error       : 0.000019244876
+ Elapsed Time         : 2.3192572
+ MFlops               : 86079.055329
+Input n - matrix size in x direction:  
+Input m - matrix size in y direction: 
+Input alpha - Helmholtz constant:  
+Input relax - Successive over-relaxation parameter: 
+Input tol - error tolerance for iterrative solver:  
+Input mits - Maximum iterations for solver:  
+-> matrix size: 27712x27712
+-> alpha: 0.800000
+-> relax: 1.000000
+-> tolerance: 0.000000
+-> #of iterations: 20 
+
+number_devices
+number_devices
+number_devices
+LOCAL RANK 0 DEVICES 7  ASSIGNMENT 0 ID-GPU0 
+LOCAL RANK 1 DEVICES 7  ASSIGNMENT 1 ID-GPU1 
+LOCAL RANK 2 DEVICES 7  ASSIGNMENT 2 ID-GPU2 
+ Number of iterations : 20
+ Residual             : 1.506425e-13
+ Solution Error       : 0.000019244876
+ Elapsed Time         : 2.3130121
+ MFlops               : 86311.467042
+Input n - matrix size in x direction:  
+Input m - matrix size in y direction: 
+Input alpha - Helmholtz constant:  
+Input relax - Successive over-relaxation parameter: 
+Input tol - error tolerance for iterrative solver:  
+Input mits - Maximum iterations for solver:  
+-> matrix size: 27712x27712
+-> alpha: 0.800000
+-> relax: 1.000000
+-> tolerance: 0.000000
+-> #of iterations: 20 
+
+number_devices
+number_devices
+number_devices
+LOCAL RANK 0 DEVICES 7  ASSIGNMENT 0 ID-GPU0 
+LOCAL RANK 1 DEVICES 7  ASSIGNMENT 1 ID-GPU1 
+LOCAL RANK 2 DEVICES 7  ASSIGNMENT 2 ID-GPU2 
+ Number of iterations : 20
+ Residual             : 1.506425e-13
+ Solution Error       : 0.000019244876
+ Elapsed Time         : 2.3708604
+ MFlops               : 84205.491565
+Input n - matrix size in x direction:  
+Input m - matrix size in y direction: 
+Input alpha - Helmholtz constant:  
+Input relax - Successive over-relaxation parameter: 
+Input tol - error tolerance for iterrative solver:  
+Input mits - Maximum iterations for solver:  
+-> matrix size: 27712x27712
+-> alpha: 0.800000
+-> relax: 1.000000
+-> tolerance: 0.000000
+-> #of iterations: 20 
+
+number_devices
+number_devices
+LOCAL RANK 0 DEVICES 7  ASSIGNMENT 0 ID-GPU0 
+number_devices
+LOCAL RANK 1 DEVICES 7  ASSIGNMENT 1 ID-GPU1 
+LOCAL RANK 2 DEVICES 7  ASSIGNMENT 2 ID-GPU2 
+ Number of iterations : 20
+ Residual             : 1.506425e-13
+ Solution Error       : 0.000019244876
+ Elapsed Time         : 2.3515862
+ MFlops               : 84895.660803
+Input n - matrix size in x direction:  
+Input m - matrix size in y direction: 
+Input alpha - Helmholtz constant:  
+Input relax - Successive over-relaxation parameter: 
+Input tol - error tolerance for iterrative solver:  
+Input mits - Maximum iterations for solver:  
+-> matrix size: 27712x27712
+-> alpha: 0.800000
+-> relax: 1.000000
+-> tolerance: 0.000000
+-> #of iterations: 20 
+
+number_devices
+number_devices
+number_devices
+LOCAL RANK 0 DEVICES 7  ASSIGNMENT 0 ID-GPU0 
+LOCAL RANK 1 DEVICES 7  ASSIGNMENT 1 ID-GPU1 
+LOCAL RANK 2 DEVICES 7  ASSIGNMENT 2 ID-GPU2 
+ Number of iterations : 20
+ Residual             : 1.506425e-13
+ Solution Error       : 0.000019244876
+ Elapsed Time         : 2.2588390
+ MFlops               : 88381.449196
+Input n - matrix size in x direction:  
+Input m - matrix size in y direction: 
+Input alpha - Helmholtz constant:  
+Input relax - Successive over-relaxation parameter: 
+Input tol - error tolerance for iterrative solver:  
+Input mits - Maximum iterations for solver:  
+-> matrix size: 27712x27712
+-> alpha: 0.800000
+-> relax: 1.000000
+-> tolerance: 0.000000
+-> #of iterations: 20 
+
+number_devices
+number_devices
+number_devices
+LOCAL RANK 0 DEVICES 7  ASSIGNMENT 0 ID-GPU0 
+LOCAL RANK 2 DEVICES 7  ASSIGNMENT 2 ID-GPU2 
+LOCAL RANK 1 DEVICES 7  ASSIGNMENT 1 ID-GPU1 
+ Number of iterations : 20
+ Residual             : 1.506425e-13
+ Solution Error       : 0.000019244876
+ Elapsed Time         : 2.2191840
+ MFlops               : 89960.752097

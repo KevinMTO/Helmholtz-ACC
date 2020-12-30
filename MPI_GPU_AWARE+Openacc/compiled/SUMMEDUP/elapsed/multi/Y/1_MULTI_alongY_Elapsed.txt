@@ -1,0 +1,6 @@
+ Elapsed Time         : 12.9003817
+ Elapsed Time         : 12.8830645
+ Elapsed Time         : 12.8848662
+ Elapsed Time         : 12.9057399
+ Elapsed Time         : 12.9131914
+ Elapsed Time         : 12.8749871

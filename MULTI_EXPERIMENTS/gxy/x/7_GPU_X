@@ -1,0 +1,270 @@
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+Input n - matrix size in x direction:  
+Input m - matrix size in y direction: 
+Input alpha - Helmholtz constant:  
+Input relax - Successive over-relaxation parameter: 
+Input tol - error tolerance for iterrative solver:  
+Input mits - Maximum iterations for solver:  
+-> matrix size: 42332x42332
+-> alpha: 0.800000
+-> relax: 1.000000
+-> tolerance: 0.000000
+-> #of iterations: 20 
+
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+LOCAL RANK 0 DEVICES 8  ASSIGNMENT 0 ID-GPU0 
+LOCAL RANK 5 DEVICES 8  ASSIGNMENT 5 ID-GPU5 
+LOCAL RANK 1 DEVICES 8  ASSIGNMENT 1 ID-GPU1 
+LOCAL RANK 3 DEVICES 8  ASSIGNMENT 3 ID-GPU3 
+LOCAL RANK 6 DEVICES 8  ASSIGNMENT 6 ID-GPU6 
+LOCAL RANK 2 DEVICES 8  ASSIGNMENT 2 ID-GPU2 
+LOCAL RANK 4 DEVICES 8  ASSIGNMENT 4 ID-GPU4 
+ Number of iterations : 20
+ Residual             : 9.485880e-09
+ Solution Error       : 0.000012600608
+ Elapsed Time         : 2.6984280
+ MFlops               : 172647.008278
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+Input n - matrix size in x direction:  
+Input m - matrix size in y direction: 
+Input alpha - Helmholtz constant:  
+Input relax - Successive over-relaxation parameter: 
+Input tol - error tolerance for iterrative solver:  
+Input mits - Maximum iterations for solver:  
+-> matrix size: 42332x42332
+-> alpha: 0.800000
+-> relax: 1.000000
+-> tolerance: 0.000000
+-> #of iterations: 20 
+
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+LOCAL RANK 0 DEVICES 8  ASSIGNMENT 0 ID-GPU0 
+number_devices
+number_devices
+LOCAL RANK 3 DEVICES 8  ASSIGNMENT 3 ID-GPU3 
+LOCAL RANK 4 DEVICES 8  ASSIGNMENT 4 ID-GPU4 
+LOCAL RANK 5 DEVICES 8  ASSIGNMENT 5 ID-GPU5 
+LOCAL RANK 1 DEVICES 8  ASSIGNMENT 1 ID-GPU1 
+LOCAL RANK 2 DEVICES 8  ASSIGNMENT 2 ID-GPU2 
+LOCAL RANK 6 DEVICES 8  ASSIGNMENT 6 ID-GPU6 
+ Number of iterations : 20
+ Residual             : 4.225946e-14
+ Solution Error       : 0.000012600606
+ Elapsed Time         : 2.7412759
+ MFlops               : 169948.423867
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+Input n - matrix size in x direction:  
+Input m - matrix size in y direction: 
+Input alpha - Helmholtz constant:  
+Input relax - Successive over-relaxation parameter: 
+Input tol - error tolerance for iterrative solver:  
+Input mits - Maximum iterations for solver:  
+-> matrix size: 42332x42332
+-> alpha: 0.800000
+-> relax: 1.000000
+-> tolerance: 0.000000
+-> #of iterations: 20 
+
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+number_devices
+LOCAL RANK 0 DEVICES 8  ASSIGNMENT 0 ID-GPU0 
+number_devices
+LOCAL RANK 1 DEVICES 8  ASSIGNMENT 1 ID-GPU1 
+LOCAL RANK 5 DEVICES 8  ASSIGNMENT 5 ID-GPU5 
+LOCAL RANK 3 DEVICES 8  ASSIGNMENT 3 ID-GPU3 
+LOCAL RANK 6 DEVICES 8  ASSIGNMENT 6 ID-GPU6 
+LOCAL RANK 4 DEVICES 8  ASSIGNMENT 4 ID-GPU4 
+LOCAL RANK 2 DEVICES 8  ASSIGNMENT 2 ID-GPU2 
+ Number of iterations : 20
+ Residual             : 4.225946e-14
+ Solution Error       : 0.000012600606
+ Elapsed Time         : 2.7756154
+ MFlops               : 167845.843771
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+Input n - matrix size in x direction:  
+Input m - matrix size in y direction: 
+Input alpha - Helmholtz constant:  
+Input relax - Successive over-relaxation parameter: 
+Input tol - error tolerance for iterrative solver:  
+Input mits - Maximum iterations for solver:  
+-> matrix size: 42332x42332
+-> alpha: 0.800000
+-> relax: 1.000000
+-> tolerance: 0.000000
+-> #of iterations: 20 
+
+number_devices
+number_devices
+number_devices
+number_devices
+LOCAL RANK 0 DEVICES 8  ASSIGNMENT 0 ID-GPU0 
+number_devices
+number_devices
+number_devices
+LOCAL RANK 3 DEVICES 8  ASSIGNMENT 3 ID-GPU3 
+LOCAL RANK 5 DEVICES 8  ASSIGNMENT 5 ID-GPU5 
+LOCAL RANK 1 DEVICES 8  ASSIGNMENT 1 ID-GPU1 
+LOCAL RANK 4 DEVICES 8  ASSIGNMENT 4 ID-GPU4 
+LOCAL RANK 6 DEVICES 8  ASSIGNMENT 6 ID-GPU6 
+LOCAL RANK 2 DEVICES 8  ASSIGNMENT 2 ID-GPU2 
+ Number of iterations : 20
+ Residual             : 4.225946e-14
+ Solution Error       : 0.000012600606
+ Elapsed Time         : 2.7776604
+ MFlops               : 167722.274003
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+Input n - matrix size in x direction:  
+Input m - matrix size in y direction: 
+Input alpha - Helmholtz constant:  
+Input relax - Successive over-relaxation parameter: 
+Input tol - error tolerance for iterrative solver:  
+Input mits - Maximum iterations for solver:  
+-> matrix size: 42332x42332
+-> alpha: 0.800000
+-> relax: 1.000000
+-> tolerance: 0.000000
+-> #of iterations: 20 
+
+number_devices
+number_devices
+number_devices
+number_devices
+LOCAL RANK 0 DEVICES 8  ASSIGNMENT 0 ID-GPU0 
+number_devices
+number_devices
+number_devices
+LOCAL RANK 5 DEVICES 8  ASSIGNMENT 5 ID-GPU5 
+LOCAL RANK 1 DEVICES 8  ASSIGNMENT 1 ID-GPU1 
+LOCAL RANK 3 DEVICES 8  ASSIGNMENT 3 ID-GPU3 
+LOCAL RANK 2 DEVICES 8  ASSIGNMENT 2 ID-GPU2 
+LOCAL RANK 6 DEVICES 8  ASSIGNMENT 6 ID-GPU6 
+LOCAL RANK 4 DEVICES 8  ASSIGNMENT 4 ID-GPU4 
+ Number of iterations : 20
+ Residual             : 4.225946e-14
+ Solution Error       : 0.000012600606
+ Elapsed Time         : 2.7242147
+ MFlops               : 171012.777196
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+PGI: CUDA Performance Tools Interface (CUPTI) could not be initialized.
+ Please disable all profiling tools (including NVPROF) before using PGI_ACC_TIME.
+Input n - matrix size in x direction:  
+Input m - matrix size in y direction: 
+Input alpha - Helmholtz constant:  
+Input relax - Successive over-relaxation parameter: 
+Input tol - error tolerance for iterrative solver:  
+Input mits - Maximum iterations for solver:  
+-> matrix size: 42332x42332
+-> alpha: 0.800000
+-> relax: 1.000000
+-> tolerance: 0.000000
+-> #of iterations: 20 
+
+number_devices
+number_devices
+number_devices
+number_devices
+LOCAL RANK 0 DEVICES 8  ASSIGNMENT 0 ID-GPU0 
+number_devices
+number_devices
+number_devices
+LOCAL RANK 1 DEVICES 8  ASSIGNMENT 1 ID-GPU1 
+LOCAL RANK 3 DEVICES 8  ASSIGNMENT 3 ID-GPU3 
+LOCAL RANK 5 DEVICES 8  ASSIGNMENT 5 ID-GPU5 
+LOCAL RANK 2 DEVICES 8  ASSIGNMENT 2 ID-GPU2 
+LOCAL RANK 4 DEVICES 8  ASSIGNMENT 4 ID-GPU4 
+LOCAL RANK 6 DEVICES 8  ASSIGNMENT 6 ID-GPU6 
+ Number of iterations : 20
+ Residual             : 4.225946e-14
+ Solution Error       : 0.000012600606
+ Elapsed Time         : 2.7791066
+ MFlops               : 167634.991276
