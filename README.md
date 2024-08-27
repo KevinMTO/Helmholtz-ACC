@@ -34,17 +34,9 @@ The project was initially developed and tested on a supercomputer equipped with 
 ## Future Work
 This project is being actively improved as a hobby project. Some areas of focus include:
 - Further optimization of GPU memory usage
-- Implementing advanced parallelization techniques
-- Exploring new scientific applications for the optimized code
-- Improving documentation and adding examples for easier community adoption
-
-## GitHub Repository
-(Add the link to your GitHub repository here once it's set up)
-
-## Contributing
-As this is now an open-source hobby project, contributions are welcome! Please feel free to submit issues, feature requests, or pull requests.
-
-## Contact
+- Implementing advanced "modern" parallelization techniques
+- Exploring new applications for the optimized code
+- Improving documentation and adding examples
 (Add your contact information or GitHub profile link if you'd like to be reachable for questions about this project)
 
 ## License
