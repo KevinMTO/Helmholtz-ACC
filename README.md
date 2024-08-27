@@ -2,6 +2,7 @@
 
 ## Project Overview
 This project focused on optimizing a memory-bound scientific code for multi-GPU clusters. The work was initially conducted during a 3-month internship at Technische Universität Wien for the VSC Research Center. It is now being continued and improved as a personal hobby project.
+Video Presentation: https://www.youtube.com/watch?v=LHAgrdNKcDM&t=186s
 
 ## Project Details
 - **Initial Duration**: July 2020 - September 2020 (3 months internship)
